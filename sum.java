@@ -1,4 +1,4 @@
-Public calss Sum
+public calss Sum
   {
   public static void main (String args[])
     {
